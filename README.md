@@ -42,3 +42,18 @@ A web development project focused on organizing and sharing useful links.
 
 *Learning, building, and improving — one project at a time.*
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=haris-121-create&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&icon_color=22D3EE" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haris-121-create&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" height="165" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haris-121-create&theme=dark&hide_border=true&ring=10B981&fire=22D3EE&currStreakLabel=10B981" width="65%" />
+</p>
+
