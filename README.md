@@ -37,8 +37,7 @@ A web development project focused on organizing and sharing useful links.
 ### Connect With Me
 
 - GitHub: [@haris-121-create](https://github.com/haris-121-create)
-- LinkedIn: Add your LinkedIn profile link here.
-
+- LinkedIn: www.linkedin.com/in/haris-khan-5856363b4
 ---
 
 *Learning, building, and improving — one project at a time.*
