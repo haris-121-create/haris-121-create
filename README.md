@@ -1,46 +1,46 @@
-# Hi, I'm Haris Khan
 
-### Software Engineering Student | Aspiring Full-Stack Developer
+<div align="center">
 
-I'm a Software Engineering undergraduate at the University of Peshawar, Pakistan.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Haris+Khan+%F0%9F%91%8B;Software+Engineering+Student;Aspiring+Full-Stack+Developer;Learning+%7C+Building+%7C+Growing" />
 
-I enjoy learning how software works, building practical projects, and improving my development skills step by step. My goal is to become a Full-Stack Developer and build useful software solutions.
 
-### About Me
+<img align="right" width="180" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Developer.gif" />
 
-- Currently pursuing BS Software Engineering
-- Interested in Web Development and Software Engineering
-- Practicing HTML, CSS, Git and GitHub
-- Exploring Python and JavaScript
-- Building projects to improve my practical experience
-- Always open to learning and collaborating
+### Software Engineering Student
+**University of Peshawar, Pakistan**
 
-### Technologies & Tools
+Building practical projects and improving my development skills step by step.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BS Software Engineering Student at University of Peshawar
+- 💻 Interested in Web Development and Software Engineering
+- 🌱 Practicing HTML, CSS, Git and GitHub
+- 🐍 Exploring Python and JavaScript
+- 🚀 Working towards becoming a Full-Stack Developer
+- 🤝 Open to learning and collaboration
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode&theme=dark" />
 </p>
 
-### Featured Project
+## 🚀 Featured Projects
 
-**LinkBoard**
-
+### 🔗 LinkBoard
 A web development project focused on organizing and sharing useful links.
 
 [View Repository](https://github.com/haris-121-create/linkboard)
 
-### Connect With Me
+### 🎓 PathPilot AI
+An AI-powered learning roadmap planner.
 
-- GitHub: [@haris-121-create](https://github.com/haris-121-create)
-- LinkedIn: www.linkedin.com/in/haris-khan-5856363b4
----
-
-*Learning, building, and improving — one project at a time.*
+[Explore My GitHub](https://github.com/haris-121-create?tab=repositories)
 
 ---
 
@@ -57,11 +57,39 @@ A web development project focused on organizing and sharing useful links.
   <img src="https://streak-stats.demolab.com?user=haris-121-create&theme=dark&hide_border=true&ring=10B981&fire=22D3EE&currStreakLabel=10B981" width="65%" />
 </p>
 
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haris-121-create/haris-121-create/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/haris-121-create/haris-121-create/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/haris-121-create">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haris-khan-5856363b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haris-121-create&label=TOTAL+PROFILE+VISITORS&color=10B981&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
+
+<p align="center">
+  <b>Learning • Building • Growing 🚀</b>
 </p>
 
