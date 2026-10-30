@@ -57,3 +57,11 @@ A web development project focused on organizing and sharing useful links.
   <img src="https://streak-stats.demolab.com?user=haris-121-create&theme=dark&hide_border=true&ring=10B981&fire=22D3EE&currStreakLabel=10B981" width="65%" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haris-121-create/haris-121-create/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
